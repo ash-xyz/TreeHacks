@@ -6,7 +6,7 @@ import React from 'react';
 export default function App() {
   return (
     <View style={[styles.container, styles.playingSpace]}>
-      <TouchableOpacity style={{ backgroundColor: '#147EFB', padding: 10, borderRadius: 4 }}>
+      <TouchableOpacity style={{ backgroundColor: '#fff', padding: 10, borderRadius: 4 }}>
         <Text style={{ color: '#fff' }}></Text>
       </TouchableOpacity>
       <CourseList />
