@@ -28,7 +28,8 @@ const CourseCard = props => {
                 isVisible={fullInfoVisible}
                 onBackdropPress={toggle}>
                 <Dialog.Title title={props.code} />
-                <Text h4>{props.course.Title}</Text>
+                <Text h3>{props.course.Title}</Text>
+                <Text>{'\n'}</Text>
                 <Text><Text style={{ fontWeight: "bold" }}>Thaught by</Text> Professor {props.course.Professor}</Text>
                 <Text><Text style={{ fontWeight: "bold" }}>Term:</Text> {props.course.Term}</Text>
                 <Text><Text style={{ fontWeight: "bold" }}>Workload (hrs/wk):</Text> {props.course['Workload (hrs/wk)']}</Text>
