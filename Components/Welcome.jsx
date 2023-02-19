@@ -61,11 +61,11 @@ const Header = () => {
 };
 
 const SubHeader = () => {
-    return(
-        <View style={styles.container}>
-            <Text style={styles.smallBold}>Select An Option Below</Text>
-        </View>
-    )
+  return (
+    <View style={styles.container}>
+      <Text style={styles.smallBold}>Select An Option Below</Text>
+    </View>
+  )
 }
 
 const Separator = () => <View style={styles.separator} />;
@@ -78,18 +78,18 @@ const Buttons = () => (
       <Button
         title="Filters"
         color="#0ac7c4"
-        onPress = {() => NavigationPreloadManager.navigate("Filters")}
+        onPress={() => NavigationPreloadManager.navigate("Filters")}
       />
       <Button
         title="Add"
         color="#0ac7c4"
         onPress={() => NavigationPreloadManager.navigate("Add")}
       />
-      <StatusBar style = "auto"
+      <StatusBar style="auto"
       />
     </View>
-    </SafeAreaView>
+  </SafeAreaView>
 );
 
-export {Separator, SubHeader, Buttons};
+export { Separator, SubHeader, Buttons };
 export default Header;
