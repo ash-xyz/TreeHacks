@@ -1,24 +1,285 @@
 {
-    "COMP2030": {
-        "Title": "Artificial Intelligence",
-        "Workload": 4,
-        "Rating": 4.2,
-        "ClassSize": 42,
-        "reviews": [
-            "this is bad",
-            "this is good",
-            "this is juuust right"
+    "ANTHRO 1060": {
+        "Title": "Introduction to Archaeological Science",
+        "Term": "2023 Spring",
+        "Professor": "Warinner",
+        "AverageRating": 4.2,
+        "Workload (hrs/wk)": 4,
+        "ClassSize": 82,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "This is bad",
+            "This is good",
+            "This is juuust right"
         ]
     },
-    "COMP9030": {
-        "Title": "Artificial Intelligence",
-        "Workload": 4,
-        "Rating": 4.2,
-        "ClassSize": 42,
-        "reviews": [
-            "this is bad",
-            "this is good",
-            "this is juuust right"
+    "ANTHRO 1150": {
+        "Title": "Ancient Landscapes",
+        "Term": "2023 Spring",
+        "Professor": "Ur",
+        "AverageRating": 3.5,
+        "Workload (hrs/wk)": 6.4,
+        "ClassSize": 34,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Pretty insightful",
+            "This is kinda meh",
+            "The professor is great"
+        ]
+    },
+    "ANTHRO 1231": {
+        "Title": "Life in the Pleistocene",
+        "Term": "2023 Fall",
+        "Professor": "Hlubik",
+        "AverageRating": 3.9,
+        "Workload (hrs/wk)": 1.8,
+        "ClassSize": 22,
+        "Credits": 4,
+        "LotteryRequirement": "Yes",
+        "Reviews": [
+            "Interesting, good professor",
+            "Great way to fulfill requirement",
+            "Very low workload, no exams"
+        ]
+    },
+    "ANTHRO 1255": {
+        "Title": "Human Diet: from Neanderthals to the future of food",
+        "Term": "2022 Fall",
+        "Professor": "Kim",
+        "AverageRating": 5.0,
+        "Workload (hrs/wk)": 8.9,
+        "ClassSize": 8,
+        "Credits": 4,
+        "LotteryRequirement": "Yes",
+        "Reviews": [
+            "Small seminar-style class, very well-taught",
+            "Professor Kim is the best!",
+            "Lots of work, but very rewarding"
+        ]
+    },
+    "APMTH 201": {
+        "Title": "Physical Mathematics I",
+        "Term": "2023 Spring",
+        "Professor": "Sinha",
+        "AverageRating": 4.0,
+        "Workload (hrs/wk)": 12.4,
+        "ClassSize": 130,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Lots of work",
+            "Pretty well taught",
+            "Sections are fun!"
+        ]
+    },
+    "APMTH 230": {
+        "Title": "Active Matter",
+        "Term": "2023 Spring",
+        "Professor": "Mahadevan",
+        "AverageRating": 3.0,
+        "Workload (hrs/wk)": 10.2,
+        "ClassSize": 98,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Not the best",
+            "Very difficult"
+        ]
+    },
+    "APMTH 318": {
+        "Title": "Special Topics in Physical Mathematics",
+        "Term": "2022 Fall",
+        "Professor": "Brenner",
+        "AverageRating": 2.4,
+        "Workload (hrs/wk)": 9.0,
+        "ClassSize": 43,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "You don't learn very much because the professor is terribl",
+            "Interesting content, but too much work for what it's worth",
+            "Lots of work, but very rewarding"
+        ]
+    },
+    "APMTH 326": {
+        "Title": "Theoretical Neuroscience and Neural Computation",
+        "Term": "2022 Fall",
+        "Professor": "Xavier",
+        "AverageRating": 0.5,
+        "Workload (hrs/wk)": 22.2,
+        "ClassSize": 23,
+        "Credits": 4,
+        "LotteryRequirement": "Yes",
+        "Reviews": [
+            "Bruh Professor Xavier is the worst!",
+            "TERRIBLE CLASS, never take EVER",
+            "This is the worst class I've ever taken"
+        ]
+    },
+    "AFVS 10F": {
+        "Title": "Indelible, Irrepressible: Drawing Course",
+        "Term": "2023 Spring",
+        "Professor": "Farah",
+        "AverageRating": 4.6,
+        "Workload (hrs/wk)": 9.2,
+        "ClassSize": 7,
+        "Credits": 2,
+        "LotteryRequirement": "Yes",
+        "Reviews": [
+            "Drawing courses here are underappreciated!",
+            "Take this course!!!"
+        ]
+    },
+    "AFVS 40H": {
+        "Title": "Introduction to Still Photography",
+        "Term": "2023 Spring",
+        "Professor": "Helmar",
+        "AverageRating": 4.6,
+        "Workload (hrs/wk)": 5.9,
+        "ClassSize": 17,
+        "Credits": 2,
+        "LotteryRequirement": "Yes",
+        "Reviews": [
+            "Very niche topic but well-executed",
+            "I was a complete beginner to photography but this class taught me so much",
+            "I met some of my closest friends during this class",
+            "So many beautiful sunset photos were taken :)"
+        ]
+    },
+    "AFVS 76": {
+        "Title": "The Language of Modern Art",
+        "Term": "2022 Fall",
+        "Professor": "Joselit",
+        "AverageRating": 4.2,
+        "Workload (hrs/wk)": 6.6,
+        "ClassSize": 47,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Great introduction to modern and contemporary art",
+            "TAKE THIS CLASS! Even if you are new to art/humanities"
+        ]
+    },
+    "AFVS 158AR": {
+        "Title": "Sensory Ethnography 1",
+        "Term": "2023 Spring",
+        "Professor": "Paravel",
+        "AverageRating": 2.9,
+        "Workload (hrs/wk)": 10.3,
+        "ClassSize": 18,
+        "Credits": 4,
+        "LotteryRequirement": "Yes",
+        "Reviews": [
+            "Not worth the time",
+            "Interesting, but not taught well at all",
+            "Would not recommend"
+        ]
+    },
+    "ASTRO 17": {
+        "Title": "Galactic and Extragalactic Astronomy",
+        "Term": "2022 Fall",
+        "Professor": "Eisenstein",
+        "AverageRating": 4.4,
+        "Workload (hrs/wk)": 13.3,
+        "ClassSize": 68,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Super cool topic",
+            "Great introduction to this field if you're at all interested"
+        ]
+    },
+    "ASTRO 110": {
+        "Title": "Exoplanets",
+        "Term": "2023 Spring",
+        "Professor": "Johnson",
+        "AverageRating": 4.1,
+        "Workload (hrs/wk)": 5.1,
+        "ClassSize": 22,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Niche topic that is taught pretty well",
+            "Exoplanets are so cool, and Prof. Johnson makes this class so worth it",
+            "Not too much work, and lectures are really interesting",
+            "Exams are fair, problem sets are doable, and the class is interesting"
+        ]
+    },
+    "ASTRO 300": {
+        "Title": "Topics in Modern Astrophysics",
+        "Term": "2023 Spring",
+        "Professor": "Chen",
+        "AverageRating": 2.9,
+        "Workload (hrs/wk)": 12.9,
+        "ClassSize": 76,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Grad-student heavy class, but rewarding for undergrads too",
+            "Very applicable to many fields of research",
+            "Prof Chen is a GOD - take this class!"
+        ]
+    },
+    "BME 130": {
+        "Title": "Neural Control of Movement",
+        "Term": "2023 Spring",
+        "Professor": "Smith",
+        "AverageRating": 1.0,
+        "Workload (hrs/wk)": 16.7,
+        "ClassSize": 56,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Cannot believe this class is required for the bioengineering major. TERRIBLE",
+            "DO NOT TAKE if you don't need to. Sadly, many will need to",
+            "Prof. Smith shows up late to class every day and is so disorganized"
+        ]
+    },
+    "BME 131": {
+        "Title": "Neuroengineering",
+        "Term": "2022 Fall",
+        "Professor": "Tebi",
+        "AverageRating": 2.4,
+        "Workload (hrs/wk)": 13.8,
+        "ClassSize": 98,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Difficult, but rewarding",
+            "Interesting content but it's a bit too specialized",
+            "Definitely go to office hours, and then you'll be fine"
+        ]
+    },
+    "CHEM 17": {
+        "Title": "Principles of Organic Chemistry",
+        "Term": "2022 Fall",
+        "Professor": "Brunker",
+        "AverageRating": 3.1,
+        "Workload (hrs/wk)": 14.6,
+        "ClassSize": 213,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "I hate orgo.",
+            "Orgo is so hard, but Prof. Brunker is great and helpful",
+            "MAKE FRIENDS in this class or you will die!",
+            "DONT. FALL. BEHIND."
+        ]
+    },
+    "CHEM 27": {
+        "Title": "Organic Chemistry of Life",
+        "Term": "2023 Spring",
+        "Professor": "Liau",
+        "AverageRating": 3.3,
+        "Workload (hrs/wk)": 13.8,
+        "ClassSize": 247,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "It's orgo, what can you expect.",
+            "Better than 1st semester orgo, but not fab"
         ]
     }
 }
