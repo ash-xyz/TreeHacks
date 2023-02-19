@@ -33,25 +33,11 @@ const MyStack = () => {
   );
 };
 
-export default function App() {
-  return (
-    <View style={styles.container}>
-      {/*<Text>Hi!</Text>*/}
-      <StatusBar style="auto" />
-      <Header />
-      <Separator />
-      <SubHeader />
-      <Buttons />
-      {/*<Cat />*/}
-    </View>
-  );
-}
-
-export function TypeOfClasses() {
+/*export function TypeOfClasses() {
   <View style={styles.container}>
     <Classes />
   </View>
-}
+}*/
 
 const styles = StyleSheet.create({
   container: {
