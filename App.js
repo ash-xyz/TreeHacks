@@ -7,10 +7,6 @@ import Border from './Components/Border.js';
 
 
 export default function App() {
-  let filter = defaultFilter;
-  filter.Professor = 'Werning';
-  const filteredCourses = getFilteredCourses(filter);
-  console.log(filteredCourses)
   return (
     <View style={[styles.container, styles.playingSpace]}>
       <Text>Hi!</Text>
