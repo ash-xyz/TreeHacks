@@ -1,3 +1,4 @@
+i
 import { getFilteredCourses, defaultFilter } from './Filter.js';
 import { FlatList,ScrollView, View, Text } from 'react-native';
 import CourseCard from './Course.jsx';
