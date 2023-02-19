@@ -39,7 +39,7 @@ const CourseCard = props => {
                 <Text style={{ fontWeight: "bold" }}>Reviews:</Text>
                 <Text>{
                     props.course.Reviews.map((y) => {
-                        return (<Text>
+                        return (<Text key={y}>
                             {`\u2022`} {y} {'\n'}
                         </Text>);
                     })
