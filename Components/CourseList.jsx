@@ -1,3 +1,4 @@
+i
 import { getFilteredCourses, defaultFilter } from './Filter.js';
 import { FlatList, ScrollView, View, Text, TextInput } from 'react-native';
 import { Card, Dialog, Button, Icon } from '@rneui/themed';
