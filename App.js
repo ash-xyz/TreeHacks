@@ -3,44 +3,16 @@ import { StyleSheet, Text, View } from 'react-native';
 import React from 'react';
 //import {Text} from 'react-native';
 
-/*export default function App() {
+export default function App() {
   return (
-    <View style={styles.container}>*/
-const getTitle = 'Welcome to';
-getTitle.style.fontSize = "150%"; 
-//const heading = () => {
-<Text>{getTitle}</Text>;
-//};
-    
-//export default heading;
-    
-      /*<Text>Welcome to _______</Text>
+    <View style={styles.container}>
+      <Text>Hi!</Text>
       <StatusBar style="auto" />
     </View>
   );
-}*/
-
-const bruh = (props) => {
-  return (
-    <View style={styles.item}>
-     <View style={styles.itemLeft}>
-       <TouchableOpacity style={styles.square}></TouchableOpacity>
-       <Text> style={styles.itemText}{props.text}</Text>
-     </View>
-     <View style={styles.circular}></View>
-    </View>
-  )
 }
 
 const styles = StyleSheet.create({
-  item: {
-    backgroundColor: '#FFF'
-
-  },
-  itemLeft: {},
-  square: {},
-  itemText: {},
-  circular: {},
   container: {
     flex: 1,
     paddingTop: StatusBar.currentHeight,
