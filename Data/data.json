@@ -281,5 +281,951 @@
             "It's orgo, what can you expect.",
             "Better than 1st semester orgo, but not fab"
         ]
+    },
+    "CHEM 100R": {
+        "Title": "Experimental Chemistry and Chemical Biology",
+        "Term": "2023 Spring",
+        "Professor": "Vollmer-Snarr",
+        "AverageRating": 4.9,
+        "Workload (hrs/wk)": 20.3,
+        "ClassSize": 16,
+        "Credits": 4,
+        "LotteryRequirement": "Yes",
+        "Reviews": [
+            "A LOT of time, but definitely so worth it",
+            "You learn so many new chem techniques to use in the lab",
+            "TAKE THIS CLASS - it's been my favorite class so far and highly recommend."
+        ]
+    },
+    "CHEM 160": {
+        "Title": "The Quantum Mechanics World",
+        "Term": "2022 Fall",
+        "Professor": "Xu",
+        "AverageRating": 3.3,
+        "Workload (hrs/wk)": 14.4,
+        "ClassSize": 76,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Ew.",
+            "So poorly taught, and exams are so unnecessarily difficult",
+            "Pretty well taught, but the material itself is just so hard"
+        ]
+    },
+    "CHEM 311": {
+        "Title": "Physical Chemistry",
+        "Term": "2022 Fall",
+        "Professor": "Lieber",
+        "AverageRating": 2.7,
+        "Workload (hrs/wk)": 11.1,
+        "ClassSize": 38,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "PChem is just a lot of math, so keep that in mind before taking it",
+            "Lieber is a genius, so make sure you go to his office hours",
+            "Mainly a grad class, but definitely doable for undergrads too"
+        ]
+    },
+    "CHEM 326": {
+        "Title": "Atomic Physics and Organometallic Chemistry",
+        "Term": "2022 Fall",
+        "Professor": "Ni",
+        "AverageRating": 4.6,
+        "Workload (hrs/wk)": 4.4,
+        "ClassSize": 21,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Such a good class! Very low workload for a chem class.",
+            "Great way to satisfy your chemistry upper elective requirement"
+        ]
+    },
+    "CMPLIT 108": {
+        "Title": "Translating World Literature",
+        "Term": "2023 Spring",
+        "Professor": "Leafgren",
+        "AverageRating": 4.2,
+        "Workload (hrs/wk)": 9.5,
+        "ClassSize": 103,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Very interesting topic that isn't taught too often"
+        ]
+    },
+    "CMPLIT 162": {
+        "Title": "Homer and Beyond: Theory and Comparative Methods in Studying Oral Traditions",
+        "Term": "2022 Fall",
+        "Professor": "Nagy",
+        "AverageRating": 3.3,
+        "Workload (hrs/wk)": 5.6,
+        "ClassSize": 26,
+        "Credits": 4,
+        "LotteryRequirement": "Yes",
+        "Reviews": [
+            "I never know Homer could be so interesting!!",
+            "Nagy isn't the best but this class is bearable at least"
+        ]
+    },
+    "COMPSCI 50": {
+        "Title": "Introduction to Computer Science",
+        "Term": "2022 Fall",
+        "Professor": "Malan",
+        "AverageRating": 4.0,
+        "Workload (hrs/wk)": 16.7,
+        "ClassSize": 532,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Iconic class",
+            "A bit overhyped ngl...",
+            "Too much like a performance, and too little teaching"
+        ]
+    },
+    "COMPSCI 51": {
+        "Title": "Abstraction and Design in Computation",
+        "Term": "2023 Spring",
+        "Professor": "Shreiber",
+        "AverageRating": 2.3,
+        "Workload (hrs/wk)": 15.2,
+        "ClassSize": 142,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "OCAML is kinda useless",
+            "I really liked this class but it's definitely a hot take",
+            "terrible..."
+        ]
+    },
+    "COMPSCI 61": {
+        "Title": "Systems Programming and Machine Organization",
+        "Term": "2022 Fall",
+        "Professor": "Kohler",
+        "AverageRating": 3.8,
+        "Workload (hrs/wk)": 18.6,
+        "ClassSize": 155,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Very difficult",
+            "Exams are impossible. You were warned..."
+        ]
+    },
+    "COMPSCI 105": {
+        "Title": "Privacy and Technology",
+        "Term": "2022 Fall",
+        "Professor": "Waldo",
+        "AverageRating": 4.1,
+        "Workload (hrs/wk)": 9.3,
+        "ClassSize": 83,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Very useful course"
+        ]
+    },
+    "COMPSCI 124": {
+        "Title": "Data Structures and Algorithms",
+        "Term": "2023 Spring",
+        "Professor": "Hesterberg",
+        "AverageRating": 4.0,
+        "Workload (hrs/wk)": 23.8,
+        "ClassSize": 116,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "A BEAST of a class, but unfortunately a hard requirement"
+        ]
+    },
+    "COMPSCI 181": {
+        "Title": "Machine Learning",
+        "Term": "2023 Spring",
+        "Professor": "Pan",
+        "AverageRating": 3.0,
+        "Workload (hrs/wk)": 19.0,
+        "ClassSize": 102,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "This class is SO much math. Brush up on your calc...",
+            "So difficult, and not even taught that well."
+        ]
+    },
+    "CHIN BA": {
+        "Title": "Elementary Modern Chinese",
+        "Term": "2022 Fall",
+        "Professor": "Du",
+        "AverageRating": 4.8,
+        "Workload (hrs/wk)": 11.9,
+        "ClassSize": 18,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "This class is taught so well, and really generates a sense of community. A MUST TAKE for your language requirement!",
+            "Du laoshi is the best ever - so chill and so helpful always"
+        ]
+    },
+    "CHIN BB": {
+        "Title": "Elementary Modern Chinese 2",
+        "Term": "2023 Spring",
+        "Professor": "Du",
+        "AverageRating": 4.6,
+        "Workload (hrs/wk)": 13.9,
+        "ClassSize": 20,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Much more difficult than Chinese BA, but still very rewarding.",
+            "You come out of this class knowing SO much Chinese!"
+        ]
+    },
+    "CHIN 123XB": {
+        "Title": "Intermediate Modern Chinese for Advanced Beginners",
+        "Term": "2023 Spring",
+        "Professor": "Zheng",
+        "AverageRating": 4.8,
+        "Workload (hrs/wk)": 9.9,
+        "ClassSize": 11,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Such a fun class!",
+            "A must take!!"
+        ]
+    },
+    "KOR BA": {
+        "Title": "Elementary Korean",
+        "Term": "2022 Fall",
+        "Professor": "Kim",
+        "AverageRating": 4.9,
+        "Workload (hrs/wk)": 7.8,
+        "ClassSize": 17,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "I LOVED this class!!",
+            "Truly a gem. Please take this for your language requirement",
+            "The teaching staff of this class really wants everyone to succeed"
+        ]
+    },
+    "KOR BB": {
+        "Title": "Elementary Korean 2",
+        "Term": "2023 Spring",
+        "Professor": "Kim",
+        "AverageRating": 4.6,
+        "Workload (hrs/wk)": 8.1,
+        "ClassSize": 14,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "A great continuation of Korean BA",
+            "Take this class if you want to learn more about Korean culture"
+        ]
+    },
+    "ECON 10A": {
+        "Title": "Principles of Economics (Microeconomics)",
+        "Term": "2022 Fall",
+        "Professor": "Laibson",
+        "AverageRating": 3.3,
+        "Workload (hrs/wk)": 6.6,
+        "ClassSize": 589,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "A mediocre introduction to economics.",
+            "Not the best, but Laibson and Furman are two of the best economists out there"
+        ]
+    },
+    "ECON 10B": {
+        "Title": "Principles of Economics (Macroeconomics)",
+        "Term": "2023 Spring",
+        "Professor": "Maggi",
+        "AverageRating": 2.9,
+        "Workload (hrs/wk)": 9.0,
+        "ClassSize": 522,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "A logical continuation of Ec 10a, but maybe a little harder.",
+            "Prof Maggi isn't as great at Laibson or Furman, but still pretty great"
+        ]
+    },
+    "ECON 50": {
+        "Title": "Using Big Data to Solve Economic and Social Problems",
+        "Term": "2023 Spring",
+        "Professor": "Chetty",
+        "AverageRating": 4.0,
+        "Workload (hrs/wk)": 8.7,
+        "ClassSize": 264,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "A MUST TAKE! Raj Chetty is the best and you learn so much in this class.",
+            "Lectures can be a bit dry sometimes but psets and exams are so manageable."
+        ]
+    },
+    "ECON 980B": {
+        "Title": "Education in the Economy",
+        "Term": "2023 Spring",
+        "Professor": "Goldin",
+        "AverageRating": 4.6,
+        "Workload (hrs/wk)": 4.2,
+        "ClassSize": 80,
+        "Credits": 4,
+        "LotteryRequirement": "Yes",
+        "Reviews": [
+            "Such a great class!",
+            "It says Econ 1010A is a prereq for this class, but you don't really need it"
+        ]
+    },
+    "ECON 1010A": {
+        "Title": "Intermediate Microeconomics",
+        "Term": "2022 Fall",
+        "Professor": "Boycko",
+        "AverageRating": 2.3,
+        "Workload (hrs/wk)": 13.0,
+        "ClassSize": 299,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Too much math in this class, and pretty poorly taught too.",
+            "Sad that this is a required course for the econ degree."
+        ]
+    },
+    "ECON 1010B": {
+        "Title": "Intermediate Macroeconomics",
+        "Term": "2023 Spring",
+        "Professor": "Foote",
+        "AverageRating": 2.5,
+        "Workload (hrs/wk)": 14.8,
+        "ClassSize": 267,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Better taught than Econ 1010A, but still not ideal."
+        ]
+    },
+    "ECON 1017": {
+        "Title": "A Libertarian Perspective on Economic and Social Policy",
+        "Term": "2022 Fall",
+        "Professor": "Miron",
+        "AverageRating": 1.9,
+        "Workload (hrs/wk)": 19.7,
+        "ClassSize": 94,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Worst class I've taken. Boring, difficult, poorly taught",
+            "Exams are unfairly hard even though the rest of the class gives off chill vibes",
+            "Problem sets are so unrepresentative of the exam difficulty",
+            "I wish I had not taken this time-sink of a class"
+        ]
+    },
+    "ECON 1123": {
+        "Title": "Introduction to Econometrics",
+        "Term": "2022 Fall",
+        "Professor": "Pettenuzzo",
+        "AverageRating": 3.3,
+        "Workload (hrs/wk)": 9.2,
+        "ClassSize": 173,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "One of the better econ classes on campus"
+        ]
+    },
+    "ENGSCI 53": {
+        "Title": "Quantitative Physiology as a Basis for Bioengineering",
+        "Term": "2022 Fall",
+        "Professor": "Moyer",
+        "AverageRating": 2.7,
+        "Workload (hrs/wk)": 15.2,
+        "ClassSize": 47,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "So disorganized, but cool content.",
+            "This class needs a new teaching staff and then it'll be so much better"
+        ]
+    },
+    "ENGSCI 94": {
+        "Title": "Entrepreneurship and Innovation",
+        "Term": "2023 Spring",
+        "Professor": "Lerner",
+        "AverageRating": 3.8,
+        "Workload (hrs/wk)": 8.9,
+        "ClassSize": 22,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Interesting topic, pretty well taught.",
+            "No exams, no quizzes is a huge pro"
+        ]
+    },
+    "ENGSCI 112": {
+        "Title": "Thermodynamics",
+        "Term": "2023 Spring",
+        "Professor": "Martin",
+        "AverageRating": 3.6,
+        "Workload (hrs/wk)": 2.3,
+        "ClassSize": 11,
+        "Credits": 4,
+        "LotteryRequirement": "Yes",
+        "Reviews": [
+            "MUCH better alternative to ENGSCI 181, but still not amazing.",
+            "Prof Martin is so funny and really tries to engage his students, but sometimes he soes come off seeming a bit clueless or disorganized"
+        ]
+    },
+    "ENGSCI 151": {
+        "Title": "Applied Electromagnetism",
+        "Term": "2022 Fall",
+        "Professor": "Ham",
+        "AverageRating": 1.7,
+        "Workload (hrs/wk)": 22.4,
+        "ClassSize": 17,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Terribly taught",
+            "I went into this class interested in E&M and came out of it traumatized"
+        ]
+    },
+    "ENGL CIJR": {
+        "Title": "Introduction to Journalism: Workshop",
+        "Term": "2022 Fall",
+        "Professor": "Abramson",
+        "AverageRating": 4.2,
+        "Workload (hrs/wk)": 13.1,
+        "ClassSize": 45,
+        "Credits": 4,
+        "LotteryRequirement": "Yes",
+        "Reviews": [
+            "Such a good class, but unfortunately is lotteried.",
+            "Take this even if you aren't a humanities major!"
+        ]
+    },
+    "ENGL CTV": {
+        "Title": "Writing for Television: Developing the Pilot: Workshop",
+        "Term": "2022 Fall",
+        "Professor": "Marks",
+        "AverageRating": 3.9,
+        "Workload (hrs/wk)": 4.2,
+        "ClassSize": 30,
+        "Credits": 4,
+        "LotteryRequirement": "Yes",
+        "Reviews": [
+            "Very niche and interesting topic."
+        ]
+    },
+    "ENGL 350": {
+        "Title": "Teaching and Professional Development Colloquium",
+        "Term": "2022 Fall",
+        "Professor": "Miller",
+        "AverageRating": 4.1,
+        "Workload (hrs/wk)": 3.0,
+        "ClassSize": 22,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Small, seminar-style class but without an enrollment cap.",
+            "Very useful skills and Prof Miller is fantastic"
+        ]
+    },
+    "ENVIRO 90P": {
+        "Title": "Climate Responsibility and Climate Action",
+        "Term": "2022 Fall",
+        "Professor": "Frumhoff",
+        "AverageRating": 4.1,
+        "Workload (hrs/wk)": 5.5,
+        "ClassSize": 92,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Such important content is covered in this class!",
+            "Everything from global warming to fossil fuels and policy is covered here."
+        ]
+    },
+    "ENVIRO 168": {
+        "Title": "Human Environmental Data Science",
+        "Term": "2022 Fall",
+        "Professor": "Huybers",
+        "AverageRating": 2.7,
+        "Workload (hrs/wk)": 13.8,
+        "ClassSize": 19,
+        "Credits": 4,
+        "LotteryRequirement": "Yes",
+        "Reviews": [
+            "So hard, and exams are impossible.",
+            "Be prepared to code A LOT for this class"
+        ]
+    },
+    "GOV 40": {
+        "Title": "International Conflict and Cooperation",
+        "Term": "2023 Spring",
+        "Professor": "Chaudoin",
+        "AverageRating": 4.8,
+        "Workload (hrs/wk)": 7.7,
+        "ClassSize": 80,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Amazing class!",
+            "Prof Chaudoin is such a great lecturer"
+        ]
+    },
+    "GOV 93CJ": {
+        "Title": "Criminal Justice Policy Practicum",
+        "Term": "2022 Fall",
+        "Professor": "Halen",
+        "AverageRating": 3.5,
+        "Workload (hrs/wk)": 5.1,
+        "ClassSize": 24,
+        "Credits": 4,
+        "LotteryRequirement": "Yes",
+        "Reviews": [
+            "Not too heavy of a workload, yet very rewarding.",
+            "Just attend lecture and you'll already get so much out of this class."
+        ]
+    },
+    "GOV 94JH": {
+        "Title": "American Cyber Politics",
+        "Term": "2022 Fall",
+        "Professor": "Halen",
+        "AverageRating": 3.9,
+        "Workload (hrs/wk)": 7.0,
+        "ClassSize": 61,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Very niche subject that is actually quite important for politics.",
+            "Worth taking as a gov elective.",
+            "Highly recommend!"
+        ]
+    },
+    "GOV 1759": {
+        "Title": "Behavioral Insights and Public Policy: Nudging for Good",
+        "Term": "2023 Spring",
+        "Professor": "Hiscox",
+        "AverageRating": 4.7,
+        "Workload (hrs/wk)": 3.5,
+        "ClassSize": 340,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "HUGE class, so you don't get much professor interaction.",
+            "There's so little work in this class, but it's still quite interesting."
+        ]
+    },
+    "HIST 15G": {
+        "Title": "Resistant Masculinity",
+        "Term": "2022 Fall",
+        "Professor": "Blakeslee",
+        "AverageRating": 4.8,
+        "Workload (hrs/wk)": 2.1,
+        "ClassSize": 15,
+        "Credits": 4,
+        "LotteryRequirement": "Yes",
+        "Reviews": [
+            "Great class, but lotteried.",
+            "Lottery for this class!",
+            "Such an important topic to debate and discuss with others"
+        ]
+    },
+    "HIST 1029": {
+        "Title": "Early Modern Britain, 1485-1714",
+        "Term": "2023 Spring",
+        "Professor": "Cratty",
+        "AverageRating": 1.9,
+        "Workload (hrs/wk)": 12.1,
+        "ClassSize": 20,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "There are too many readings in this class.",
+            "Beware that Prof Cratty gives pop quizzes!"
+        ]
+    },
+    "HIST 1513": {
+        "Title": "History of Modern Latin America",
+        "Term": "2023 Spring",
+        "Professor": "Weld",
+        "AverageRating": 4.1,
+        "Workload (hrs/wk)": 4.2,
+        "ClassSize": 32,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Good introduction to contemporary Latin American culture."
+        ]
+    },
+    "HIST 2445": {
+        "Title": "Constitutions, Law, and Empire",
+        "Term": "2023 Spring",
+        "Professor": "Gordon-Reed",
+        "AverageRating": 3.1,
+        "Workload (hrs/wk)": 8.7,
+        "ClassSize": 99,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Lots of reading in this class.",
+            "Take this class if you're interested in policy and law-making"
+        ]
+    },
+    "LING 101": {
+        "Title": "The Science of Language: An Introduction",
+        "Term": "2022 Fall",
+        "Professor": "Sag-Parvardeh",
+        "AverageRating": 4.2,
+        "Workload (hrs/wk)": 6.0,
+        "ClassSize": 277,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Good and painless way to satisfy the humanities requirement.",
+            "Linguistics is so interesting and this is a great intro to the field"
+        ]
+    },
+    "LING 212": {
+        "Title": "Syntactic Theory",
+        "Term": "2022 Fall",
+        "Professor": "Bondarenko",
+        "AverageRating": 3.9,
+        "Workload (hrs/wk)": 11.0,
+        "ClassSize": 38,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Pretty interesting, and applicable as well.",
+            "Useful for anyone to learn as a skill set."
+        ]
+    },
+    "MATH 19A": {
+        "Title": "Modeling and Differential Equations for the Life Sciences",
+        "Term": "2022 Fall",
+        "Professor": "Cain",
+        "AverageRating": 4.0,
+        "Workload (hrs/wk)": 13.8,
+        "ClassSize": 96,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Interesting take on mathematics specifically for uses in the life sciences."
+        ]
+    },
+    "MATH 22B": {
+        "Title": "Vector Calculus and Linear Alebra",
+        "Term": "2023 Spring",
+        "Professor": "Grundmeier",
+        "AverageRating": 3.1,
+        "Workload (hrs/wk)": 15.5,
+        "ClassSize": 252,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "So much busy work, but definitely useful skills to have.",
+            "3 psets per week and 3 midterms is too much"
+        ]
+    },
+    "MATH 101": {
+        "Title": "Sets, Groups, and Real Analysis",
+        "Term": "2023 Spring",
+        "Professor": "Chen",
+        "AverageRating": 4.8,
+        "Workload (hrs/wk)": 16.7,
+        "ClassSize": 92,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Taught incredibly well for such a difficult topic.",
+            "Professor Chen is a magician.",
+            "Loved this class!"
+        ]
+    },
+    "MATH 230A": {
+        "Title": "Differential Geometry",
+        "Term": "2022 Fall",
+        "Professor": "Ye",
+        "AverageRating": 3.9,
+        "Workload (hrs/wk)": 11.9,
+        "ClassSize": 140,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Super difficult topic, but pretty well executed.",
+            "Not that much work for an upper level math class"
+        ]
+    },
+    "MOLBIO 60": {
+        "Title": "Cellular Biology and Molecular Medicine",
+        "Term": "2022 Fall",
+        "Professor": "Mao",
+        "AverageRating": 2.7,
+        "Workload (hrs/wk)": 15.5,
+        "ClassSize": 129,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Honestly a terrible introduction to biology.",
+            "Could have been executed better."
+        ]
+    },
+    "MOLBIO 66": {
+        "Title": "Pathological Cell Biology",
+        "Term": "2023 Spring",
+        "Professor": "Kunes",
+        "AverageRating": 3.7,
+        "Workload (hrs/wk)": 12.1,
+        "ClassSize": 43,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Interesting applications, and pretty well taught.",
+            "Great class for premeds to take for context"
+        ]
+    },
+    "MOLBIO 112": {
+        "Title": "Biological Data Analysis",
+        "Term": "2022 Fall",
+        "Professor": "Eddy",
+        "AverageRating": 4.9,
+        "Workload (hrs/wk)": 22.2,
+        "ClassSize": 85,
+        "Credits": 4,
+        "LotteryRequirement": "Yes",
+        "Reviews": [
+            "Prof Eddy is the best and truly a genius.",
+            "This class is probably the best at Harvard",
+            "So much work, but very very worth it"
+        ]
+    },
+    "NEURO 80": {
+        "Title": "Neurobiology of Behavior",
+        "Term": "2022 Fall",
+        "Professor": "Lichtman",
+        "AverageRating": 4.4,
+        "Workload (hrs/wk)": 10.9,
+        "ClassSize": 127,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Great intro to neuro for students of any background.",
+            "Take this class!",
+            "Very helpful content, especially for MCAT prep"
+        ]
+    },
+    "NEURO 101TB": {
+        "Title": "The Neuroscience of Addiction",
+        "Term": "2023 Spring",
+        "Professor": "Jordan",
+        "AverageRating": 3.3,
+        "Workload (hrs/wk)": 15.6,
+        "ClassSize": 92,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Sounds more interesting than it is."
+        ]
+    },
+    "PHIL 27": {
+        "Title": "Truth, Lies, and the Press",
+        "Term": "2022 Fall",
+        "Professor": "Siegel",
+        "AverageRating": 4.2,
+        "Workload (hrs/wk)": 11.0,
+        "ClassSize": 17,
+        "Credits": 4,
+        "LotteryRequirement": "Yes",
+        "Reviews": [
+            "For a philosophy class, I thought it was genuinely very interesting.",
+            "Prof Siegel really loves discussions, and it helps the learning process"
+        ]
+    },
+    "PHIL 109": {
+        "Title": "Early Chinese Ethics",
+        "Term": "2022 Fall",
+        "Professor": "Robertson",
+        "AverageRating": 3.1,
+        "Workload (hrs/wk)": 4.2,
+        "ClassSize": 26,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Not very much work, but still not taught well.",
+            "Not really worth taking, look for a different phil class for your requirement"
+        ]
+    },
+    "PHIL 186": {
+        "Title": "Feminism in the Arts and Sciences",
+        "Term": "2023 Spring",
+        "Professor": "Werning",
+        "AverageRating": 4.9,
+        "Workload (hrs/wk)": 9.2,
+        "ClassSize": 10,
+        "Credits": 4,
+        "LotteryRequirement": "Yes",
+        "Reviews": [
+            "Small seminar-style class that's very engaging.",
+            "Covers such a relevant and important topic!"
+        ]
+    },
+    "PHYS 15A": {
+        "Title": "Introductory Mechanics and Relativity",
+        "Term": "2023 Spring",
+        "Professor": "Morin",
+        "AverageRating": 4.0,
+        "Workload (hrs/wk)": 13.8,
+        "ClassSize": 97,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Very difficult but you learn so much physics from this.",
+            "Hard, but accessible physics for someone of any level."
+        ]
+    },
+    "PHYS 15B": {
+        "Title": "Introductory Electromagnetism",
+        "Term": "2022 Fall",
+        "Professor": "Dvorkin",
+        "AverageRating": 3.9,
+        "Workload (hrs/wk)": 16.4,
+        "ClassSize": 76,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Significantly harder than Physics 15A",
+            "Too difficult for someone who hasn't taken AP Physics C: E&M to take"
+        ]
+    },
+    "PHYS 145": {
+        "Title": "Elementary Particle Physics",
+        "Term": "2022 Fall",
+        "Professor": "Hailu",
+        "AverageRating": 2.2,
+        "Workload (hrs/wk)": 15.5,
+        "ClassSize": 97,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "It's particle physics, what can you expect.",
+            "Better than E&M, but not fab"
+        ]
+    },
+    "PSYCH 16": {
+        "Title": "Developmental Psychology",
+        "Term": "2023 Spring",
+        "Professor": "Snedeker",
+        "AverageRating": 3.1,
+        "Workload (hrs/wk)": 6.5,
+        "ClassSize": 102,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Pretty interesting, and applicable as well.",
+            "A must take!!"
+        ]
+    },
+    "PSYCH 975": {
+        "Title": "Contemporary Issues in Psychology",
+        "Term": "2023 Spring",
+        "Professor": "Hooley",
+        "AverageRating": 4.6,
+        "Workload (hrs/wk)": 2.3,
+        "ClassSize": 73,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "This is juuust right",
+            "A bit overhyped ngl...",
+            "Very low workload, no exams"
+        ]
+    },
+    "PSYCH 1005": {
+        "Title": "Health: A Positive Psychology Perspective",
+        "Term": "2022 Fall",
+        "Professor": "Langer",
+        "AverageRating": 3.9,
+        "Workload (hrs/wk)": 11.5,
+        "ClassSize": 77,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Very interesting take on a classic psychology class.",
+            "A LOT of time, but definitely so worth it"
+        ]
+    },
+    "REL 116": {
+        "Title": "The Conduct of Life in Western and Eastern Philosophy",
+        "Term": "2023 Spring",
+        "Professor": "Unger",
+        "AverageRating": 4.8,
+        "Workload (hrs/wk)": 5.3,
+        "ClassSize": 100,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Good and painless way to satisfy the humanities requirement.",
+            "Amazing class!"
+        ]
+    },
+    "SPAN 10": {
+        "Title": "Beginning Spanish",
+        "Term": "2022 Fall",
+        "Professor": "Parra-Velasco",
+        "AverageRating": 4.8,
+        "Workload (hrs/wk)": 10.1,
+        "ClassSize": 27,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "So well-taught and streamlined",
+            "I LOVED this class!!",
+            "A LOT of time, but definitely so worth it"
+        ]
+    },
+    "SPAN 61PH": {
+        "Title": "Spanish for Public Health",
+        "Term": "2023 Spring",
+        "Professor": "Gutierrez",
+        "AverageRating": 5.0,
+        "Workload (hrs/wk)": 5.2,
+        "ClassSize": 30,
+        "Credits": 4,
+        "LotteryRequirement": "Yes",
+        "Reviews": [
+            "Great class, but lotteried.",
+            "Not too much work but is super interesting",
+            "Truly a gem. Please take this for your language requirement"
+        ]
+    },
+    "SOCSTUD 60": {
+        "Title": "Making Sense of Methods for Theoretical and Historical Research",
+        "Term": "2023 Spring",
+        "Professor": "Clavey",
+        "AverageRating": 3.8,
+        "Workload (hrs/wk)": 4.2,
+        "ClassSize": 98,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Take this course!!!",
+            "A bit overhyped ngl..."
+        ]
+    },
+    "SOCSTUD 98TD": {
+        "Title": "The Theory and Practice of Democracy in the Global South",
+        "Term": "2022 Fall",
+        "Professor": "Weaver",
+        "AverageRating": 4.4,
+        "Workload (hrs/wk)": 2.9,
+        "ClassSize": 50,
+        "Credits": 4,
+        "LotteryRequirement": "Yes",
+        "Reviews": [
+            "Highly recommend!",
+            "Amazing class!"
+        ]
     }
+
 }
