@@ -1,7 +1,7 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 //import Cat from './Components/Cat.jsx';
-import Header, {SubHeader} from './Components/Welcome.jsx';
+import Header, {Separator, SubHeader, Buttons} from './Components/Welcome.jsx';
 import React from 'react';
 
 export default function App() {
@@ -10,7 +10,9 @@ export default function App() {
       {/*<Text>Hi!</Text>*/}
       <StatusBar style="auto" />
       <Header />
+      <Separator />
       <SubHeader />
+      <Buttons />
       {/*<Cat />*/}
     </View>
   );
