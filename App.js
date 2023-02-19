@@ -1,17 +1,16 @@
 import { StyleSheet, Text, View } from 'react-native';
 import { getFilteredCourses, defaultFilter } from './Components/Filter.js'
+import CourseCard from './Components/Course.jsx';
 import React from 'react';
 
 
 export default function App() {
   let filter = defaultFilter;
-  filter.Professor = 'Werning';
   const filteredCourses = getFilteredCourses(filter);
-  console.log(filteredCourses)
   return (
     <View style={styles.container}>
-      <Text>Hi!</Text>
-      <Text>{JSON.stringify(filteredCourses, null, 2)}</Text>
+      <CourseCard code='PHIL 186'
+        course={filteredCourses['PHIL 186']} />
     </View>
   );
 }
