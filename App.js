@@ -1,16 +1,17 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
-import Cat from './Components/Cat.jsx';
-import Header from './Components/Welcome.jsx';
+//import Cat from './Components/Cat.jsx';
+import Header, {SubHeader} from './Components/Welcome.jsx';
 import React from 'react';
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Hi!</Text>
+      {/*<Text>Hi!</Text>*/}
       <StatusBar style="auto" />
-      <Cat />
       <Header />
+      <SubHeader />
+      {/*<Cat />*/}
     </View>
   );
 }
