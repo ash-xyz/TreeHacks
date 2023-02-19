@@ -1226,6 +1226,49 @@
             "Highly recommend!",
             "Amazing class!"
         ]
+    },
+    "STAT 110": {
+        "Title": "Introduction to Probability",
+        "Term": "2022 Fall",
+        "Professor": "Blitzstein",
+        "AverageRating": 3.9,
+        "Workload (hrs/wk)": 16.8,
+        "ClassSize": 459,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "HUGE class, so you don't get much professor interaction.",
+            "Exams are impossible. You were warned...",
+            "Blitzstein is a king. Take this class!"
+        ]
+    },
+    "STAT 141": {
+        "Title": "Introduction to Spatial Statistics",
+        "Term": "2023 Spring",
+        "Professor": "Young",
+        "AverageRating": 4.7,
+        "Workload (hrs/wk)": 10.7,
+        "ClassSize": 102,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "Not fun topic-wise, but Prof Young makes it fun!",
+            "Highly recommend!"
+        ]
+    },
+    "STAT 220": {
+        "Title": "Bayesian Data Analysis",
+        "Term": "2023 Spring",
+        "Professor": "Liu",
+        "AverageRating": 3.1,
+        "Workload (hrs/wk)": 13.9,
+        "ClassSize": 95,
+        "Credits": 4,
+        "LotteryRequirement": "None",
+        "Reviews": [
+            "A fundamentally important topic in statistics, but pretty poorly taught.",
+            "There is so much work in this class.",
+            "Be prepared for psets that take you 15 hours, and impossible exams"
+        ]
     }
-
 }
