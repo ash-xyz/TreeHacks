@@ -1,56 +1,19 @@
-import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
-//import Cat from './Components/Cat.jsx';
-import Welcome from './Components/Welcome.jsx';
-import Filters from './Components/Filters.jsx';
-import Header, {Separator, SubHeader, Buttons} from './Components/Welcome.jsx';
-import Classes from './Components/Filters.jsx';
+import { getFilteredCourses, defaultFilter } from './Components/Filter.js'
 import React from 'react';
 
-import {NavigationContainer} from '@react-navigation/native';
-import {createNativeStackNavigator} from '@react-navigation/native-stack';
-
-const Stack = createNativeStackNavigator();
-
-const MyStack = () => {
-  return (
-    <NavigationContainer>
-      <Stack.Navigator>
-        <Stack.Screen
-          name="Home"
-          component={Welcome}
-        />
-        <Stack.Screen
-          name="Filters"
-          component={Filters}
-        />
-        <Stack.Screen
-          name="Add"
-          component={Add}
-        />
-      </Stack.Navigator>
-    </NavigationContainer>
-  );
-};
 
 export default function App() {
+  let filter = defaultFilter;
+  filter.Professor = 'Werning';
+  const filteredCourses = getFilteredCourses(filter);
+  console.log(filteredCourses)
   return (
     <View style={styles.container}>
-      {/*<Text>Hi!</Text>*/}
-      <StatusBar style="auto" />
-      <Header />
-      <Separator />
-      <SubHeader />
-      <Buttons />
-      {/*<Cat />*/}
+      <Text>Hi!</Text>
+      <Text>{JSON.stringify(filteredCourses, null, 2)}</Text>
     </View>
   );
-}
-
-export function TypeOfClasses() {
-  <View style={styles.container}>
-    <Classes />
-  </View>
 }
 
 const styles = StyleSheet.create({
