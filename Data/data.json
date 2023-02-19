@@ -1,0 +1,24 @@
+{
+    "COMP2030": {
+        "Title": "Artificial Intelligence",
+        "Workload": 4,
+        "Rating": 4.2,
+        "ClassSize": 42,
+        "reviews": [
+            "this is bad",
+            "this is good",
+            "this is juuust right"
+        ]
+    },
+    "COMP9030": {
+        "Title": "Artificial Intelligence",
+        "Workload": 4,
+        "Rating": 4.2,
+        "ClassSize": 42,
+        "reviews": [
+            "this is bad",
+            "this is good",
+            "this is juuust right"
+        ]
+    }
+}
